@@ -232,6 +232,6 @@ Bot has more than 300 commands and i am lazy to write all
 
 handler.help = ['audios']
 handler.tags = ['main']
-handler.command = ['menu2', 'help2', 'h2'] 
+handler.command = ['menu2', 'اايسلاند', 'h2'] 
 
 export default handler
